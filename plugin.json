@@ -1,8 +1,8 @@
 {
 	"description": "Shows Football scores from flashscore app, Note:only set notifications for one game at a time otherwise data maybe in accurate.
    set notifications settings as- goalscorer,half-time score,final result,Lineups,goal,start of second half",
-	"download_url": "https://example.com/path-to-your-apk-direct-download.apk",
-	"version_code": 1,
+	"download_url": "https://github.com/meilluer/SmartSpacer-Flashscore-plugin/releases/tag/v2.0",
+	"version_code": 2,
 	"changelog": "Fixed scorer name extraction",
 	"required_package": "eu.livesport.FlashScore_com",
 	"minimum_smartspacer_version": 0,
