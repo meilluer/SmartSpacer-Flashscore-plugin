@@ -6,5 +6,5 @@
 	"changelog": "Fixed scorer name extraction",
 	"required_package": "eu.livesport.FlashScore_com",
 	"minimum_smartspacer_version": 0,
-	"screenshots": ["https://github.com/meilluer/SmartSpacer-Flashscore-plugin/blob/main/photo_2025-06-14_10-56-48.jpg", "https://github.com/meilluer/SmartSpacer-Flashscore-plugin/blob/main/photo_2025-06-14_10-56-50.jpg","https://github.com/meilluer/SmartSpacer-Flashscore-plugin/blob/main/photo_2025-06-14_10-56-52.jpg"]
+	"screenshots": ["https://github.com/meilluer/SmartSpacer-Flashscore-plugin/blob/main/photo_2025-06-14_10-56-48.jpg?raw=true", "https://github.com/meilluer/SmartSpacer-Flashscore-plugin/blob/main/photo_2025-06-14_10-56-48.jpg?raw=true","https://github.com/meilluer/SmartSpacer-Flashscore-plugin/blob/main/photo_2025-06-14_10-56-50.jpg?raw=true"]
 }
