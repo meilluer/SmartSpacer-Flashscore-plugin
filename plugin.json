@@ -1,6 +1,20 @@
 {
-	"description": "Shows Football scores from flashscore app, Note:only set notifications for one game at a time otherwise data maybe in accurate.
-   set notifications settings as- goalscorer,half-time score,final result,Lineups,goal,start of second half",
+	"description": "Displays live football scores extracted from the FlashScore app.
+Note: For accurate results, please enable notifications for only one match at a time.
+
+To ensure reliable data extraction, configure your FlashScore notification settings as follows:
+
+Goalscorer
+
+Half-time score
+
+Final result
+
+Lineups
+
+Goal notifications
+
+Start of second half",
 	"download_url": "https://github.com/meilluer/SmartSpacer-Flashscore-plugin/releases/download/2.1/app-debug.apk",
 	"version_code": 1,
 	"changelog": "FIXED: score mirror issue,ADDED:Clear data on target removal",
